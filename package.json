@@ -1,6 +1,6 @@
 {
-  "name": "get-extension",
-  "version": "1.0.0",
+  "name": "get-url-extension",
+  "version": "1.0.1",
   "description": "get file or url extension ",
   "main": "index.js",
   "scripts": {
