@@ -1,0 +1,24 @@
+{
+  "name": "get-extension",
+  "version": "1.0.0",
+  "description": "get file or url extension ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalahudinMalik/get-extension.git"
+  },
+  "keywords": [
+    "extension",
+    "url",
+    "file"
+  ],
+  "author": "salahudinmalik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SalahudinMalik/get-extension/issues"
+  },
+  "homepage": "https://github.com/SalahudinMalik/get-extension#readme"
+}
