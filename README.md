@@ -1,5 +1,14 @@
 # Get correct extension from url and mimetype
-get extension of file and url path 
+Get extension of file and url path 
+
+## Problem statement
+
+we were getting problem while getting image url extension correctly 
+because of these kind on url `https://regmedia.co.uk/2017/06/26/cloudflarelogo.jpg?width=100`
+or like this one `https://regmedia.co.uk/2017/06/26/cloudflarelogo.jpg-xml`
+so I solved this problem to get correct url extension
+now using this library you can get correct extension
+
 
 ## Installation 
 

@@ -1,6 +1,6 @@
 {
   "name": "get-url-extension",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "get file or url extension ",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,9 @@
   "keywords": [
     "extension",
     "url",
-    "file"
+    "file",
+    "mime",
+    "mimetype"
   ],
   "author": "salahudinmalik",
   "license": "ISC",
